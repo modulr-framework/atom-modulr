@@ -1,0 +1,39 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Modulr",
+        "submenu": [
+            {
+              "label": "Define Module",
+              "command": "modulr:genDefine"
+            },
+            {
+              "label": "Generate .modulrc",
+              "command": "modulr:genConfig"
+            }
+        ]
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Modulr",
+          "submenu": [
+            {
+              "label": "Generate Define",
+              "command": "modulr:genDefine"
+            },
+            {
+              "label": "Generate Config",
+              "command": "modulr:genConfig"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
