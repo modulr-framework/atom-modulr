@@ -1,7 +1,7 @@
 {
   "name": "modulr",
   "main": "./lib/modulr",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "A short description of your package",
   "keywords": [],
   "repository": "https://github.com/modulr-framework/atom-modulr",
