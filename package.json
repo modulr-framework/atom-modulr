@@ -16,6 +16,6 @@
   },
   "dependencies": {
     "cli-helper": "^0.2.1",
-    "lodash": "^4.17.5"
+    "lodash": "^4.17.19"
   }
 }
